@@ -23,15 +23,15 @@
         <nav class="nav justify-content-center">
             <a class="nav-link active" href="/">home</a>
             <a class="nav-link" href="/about">about</a>
-            <a class="nav-link disabled" href="">contact</a>
+            <a class="nav-link disabled" href="#">contact</a>
         </nav>
     </header>
     <!-- /#site_header -->
     <main id="site_main">
         <h1 class="text-center">{{$page_title}}</h1>
-
     </main>
     <!-- /#site_main -->
+
     <footer id="site_footer"></footer>
     <!-- /#site_footer -->
 
